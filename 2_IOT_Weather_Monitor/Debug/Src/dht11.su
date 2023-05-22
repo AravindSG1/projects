@@ -1,0 +1,7 @@
+../Src/dht11.c:24:6:DHT11_config	8	static
+../Src/dht11.c:41:6:DHT11_init	24	static
+../Src/dht11.c:72:15:receive_bytes	16	static
+../Src/dht11.c:104:6:gpio_output_mode	4	static
+../Src/dht11.c:111:6:gpio_input_mode	4	static
+../Src/dht11.c:118:6:delay_for_msec	24	static
+../Src/dht11.c:126:6:delay_for_usec	32	static

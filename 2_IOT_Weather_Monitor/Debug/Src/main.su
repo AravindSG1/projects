@@ -1,0 +1,8 @@
+../Src/main.c:34:5:main	8	static
+../Src/main.c:67:6:integer_to_ascii	16	static
+../Src/main.c:79:6:Basic_Commands	8	static
+../Src/main.c:87:6:Wifi_Conn_Commands	8	static
+../Src/main.c:96:6:Thing_Speak_Command_Start	8	static
+../Src/main.c:103:6:Init_ESP8266	8	static
+../Src/main.c:109:6:Wifi_acc	8	static
+../Src/main.c:115:6:Data_Commands	8	static
